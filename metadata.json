@@ -1,0 +1,5 @@
+{
+  "name": "Latex Lens",
+  "description": "An intelligent OCR tool that extracts text from images and converts mathematical and chemical formulas into LaTeX format using Gemini AI.",
+  "requestFramePermissions": []
+}
